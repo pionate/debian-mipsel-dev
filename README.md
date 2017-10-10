@@ -1,1 +1,1 @@
-# debian-mipsel-dev
+# amd64-dev
